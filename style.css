@@ -1,0 +1,13 @@
+.nav_color{
+    background-color: #1A187A;
+}
+.slider{
+    background: linear-gradient(rgba(255, 255, 255, 1) 0%, rgba(251, 251, 251, 0.1) 100%), linear-gradient(90deg, #84d2ff, #8d5acd);
+}
+
+.sale{
+    background-color: #958AD4;
+}
+.footer_color{
+    background-color: #0E071B;
+}
